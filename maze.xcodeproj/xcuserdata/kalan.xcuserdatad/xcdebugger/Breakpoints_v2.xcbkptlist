@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../&#x96fb;&#x8166;&#x5716;&#x5b78;&#x8207;&#x8cc7;&#x6599;&#x8996;&#x89ba;&#x5316;/6E test 2/CODE/example1.cpp"
+            timestampString = "513425345.990822"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "init( void )"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../&#x96fb;&#x8166;&#x5716;&#x5b78;&#x8207;&#x8cc7;&#x6599;&#x8996;&#x89ba;&#x5316;/6E test 2/CODE/example1.cpp"
+            timestampString = "513425345.990822"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "draw_wall(int x, int y, int wall, std::vector&lt;vec2&gt; *vect)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../&#x96fb;&#x8166;&#x5716;&#x5b78;&#x8207;&#x8cc7;&#x6599;&#x8996;&#x89ba;&#x5316;/6E test 2/CODE/example1.cpp"
+            timestampString = "513425345.990822"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "draw_wall(int x, int y, int wall, std::vector&lt;vec2&gt; *vect)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../&#x96fb;&#x8166;&#x5716;&#x5b78;&#x8207;&#x8cc7;&#x6599;&#x8996;&#x89ba;&#x5316;/6E test 2/CODE/example1.cpp"
+            timestampString = "513425345.990822"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "init( void )"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../&#x96fb;&#x8166;&#x5716;&#x5b78;&#x8207;&#x8cc7;&#x6599;&#x8996;&#x89ba;&#x5316;/6E test 2/CODE/example1.cpp"
+            timestampString = "513425345.990822"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "draw_wall(int x, int y, int wall, std::vector&lt;vec2&gt; *vect)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
